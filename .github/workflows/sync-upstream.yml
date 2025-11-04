@@ -1,24 +1,23 @@
-name: Sync from upstream
+name: 🔄 Sync from upstream
 
 on:
-  repository_dispatch:
-    types: [upstream-sync]
+  schedule:
+    - cron: '0 5 * * *'       # daily at 05:00 UTC
+  workflow_dispatch:         # manual trigger
 
 permissions:
-  contents: write
+  contents: write             # allow pushing changes
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out default branch
+      - name: Check out repository
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.repository.default_branch }}
-          fetch-depth: 0
+          fetch-depth: 0       # full history
 
-      - name: Configure Git for GitHub Actions
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -30,8 +29,7 @@ jobs:
       - name: Fetch & merge upstream
         run: |
           git fetch upstream
-          git merge upstream/${{ github.event.repository.default_branch }} --no-edit
+          git merge upstream/${{ github.ref_name }} --no-edit
 
       - name: Push merged changes
-        run: |
-          git push origin HEAD:${{ github.event.repository.default_branch }}
+        run: git push origin HEAD:${{ github.ref_name }}
