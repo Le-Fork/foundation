@@ -92,6 +92,7 @@ Graduated,Kubernetes steering,Antonio Ojea,Google,aojea,https://git.k8s.io/steer
 ,,Tim Hockin,Google,thockin,
 ,,Verónica López,AuthZed,Verolop,
 ,,Vince Prignano,Red Hat,vincepri,
+,,Vyom Yadav,Canonical,Vyom-Yadav,
 ,,Walter Fender,Google,cheftako,
 ,,Wenjia Zhang,Google,wenjiaswe,
 ,,Wojciech Tyczynski,Google,wojtek-t,
@@ -656,7 +657,7 @@ Graduated,Argo, Saravanan Balasubramanian,Intuit,sarabala1979,https://github.com
 ,,Vlad Losev,Sage Intacct,vladlosev,
 ,,William Tam,Red Hat,wtam2018,
 ,,William Van Hevelingen,Acquia,blkperl,
-,,Yuan Tang,Ant Group,terrytangyuan,
+,,Yuan Tang,Red Hat,terrytangyuan,
 ,,Zach Aller,,zachaller,
 Sandbox,Kudo,Alena Varkockova,,alenkacz,https://github.com/kudobuilder/kudo/blob/main/OWNERS
 ,,Gerred Dillon,,gerred,
@@ -854,7 +855,8 @@ Incubating,Operator Framework: Lifecycle Manager v1,Joe Lanford,Red Hat,joelanfo
 ,,Edmund Ochieng,Red Hat,OchiengEd,
 ,,Jordan Keister,Red Hat,grokspawn,
 ,,Nico Schieder,Red Hat,thetechnick,
-,,Rashmi Gottapati,Red Hat,rashmigottipati,
+,,Predrag Knezevic,Red Hat,pedjak,
+,,Rashmi Gottipati,Red Hat,rashmigottipati,
 ,,Tayler Geiger,Red Hat,trgeiger,
 Sandbox,Serverless Workflow Specification,Ricardo Zanini,,ricardozanini,https://github.com/serverlessworkflow/specification/blob/master/OWNERS
 ,,Tihomir Surdilovic,Temporal Technologies,tsurdilo,
@@ -1443,6 +1445,7 @@ Graduated,Istio: Steering Committee,Ameer Abbas,Google,ameer00,https://github.co
 ,,Daniel Hawton,Solo.io,dhawton,
 ,,Didier Grelin,Google,didier-grelin,
 ,,Faseela K,Ericsson Software Technology,kfaseela,
+,,Francisco Herrera,Red Hat,fjglira,
 ,,Frank Budinsky,IBM,frankbu,
 ,,Xiaopeng Han,DaoCloud,hanxiaop,
 ,,Zhonghu Xu,Huawei,hzxuzhonghu,
@@ -1537,6 +1540,10 @@ Sandbox,OPCR,Gert Drapers,Aserto,gertd,https://github.com/opcr-io/policy/blob/ma
 Sandbox,werf,Alexey Igrychev,Palark,alexey-igrychev,https://github.com/werf/werf/blob/main/OWNERS
 ,,Timofey Kirillov,Flant,distorhead,
 ,,Ilya Lesikov,Flant,ilya-lesikov,
+,,Evgeniy Frolov,Flant,Fral738,
+,,Alexandr Zaytsev,Flant,nervgh,
+,,Polina Sizintseva,Flant,odiora,
+,,Radmir Khurum,Flant,reyreavman,
 Sandbox,zot,Ravi Chamarthy,Cisco,rchamarthy,https://github.com/project-zot/zot/blob/main/MAINTAINERS.md
 ,,Ram Chinchani,Cisco,rchincha,
 ,,Serge Hallyn,Cisco,hallyn,
@@ -1643,11 +1650,11 @@ Sandbox,kcp,Andy Anderson,IBM,clubanderson,https://github.com/kcp-dev/kcp/blob/m
 ,,Marvin Beckers,Kubermatic,embik,
 ,,Nelo-T. Wallus,SAP,ntnn,
 ,,Marko Mudrinic,Kubermatic,xmudrii,
-Incubating,Kubeflow,Aldo Culquicondor,Google,alculquicondor,https://github.com/kubeflow/community/blob/master/MAINTAINERS.md
-,,Amber Graner,Independent,akgraner,
+Incubating,Kubeflow,Amber Graner,Independent,akgraner,https://github.com/kubeflow/community/blob/master/MAINTAINERS.md
 ,,Andrey Velichkevich,Apple,andreyvelich,
 ,,Andy Stoneberg,Red Hat,andyatmiami,
 ,,Animesh Singh,LinkedIn,animeshsingh,
+,,Anya Kramar,Red Hat,kramaranya,
 ,,Ce Gao,TensorChord,gaocegege,
 ,,Chen Sun,Google,chensun,
 ,,Christian Kadner,IBM,ckadner,
@@ -2132,10 +2139,3 @@ Sandbox,HolmesGPT,Natan Yellin,Robusta,aantn,https://github.com/HolmesGPT/holmes
 ,,Roi Glinik,Robusta,RoiGlinik,
 ,,Moshe Morad,Robusta,moshemorad,
 ,,Qingchuan Hao,Microsoft,mainred,
-
-
-
-
-
-
-
