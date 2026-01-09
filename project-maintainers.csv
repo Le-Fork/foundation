@@ -476,19 +476,16 @@ Incubating,Buildpacks,Aidan Delaney,Bloomberg,aidandelaney,https://github.com/bu
 ,,Sambhav Kothari,Bloomberg,sambhav,
 ,,Terence Lee,Salesforce,hone,
 ,,Travis Longoria,Salesforce,elbandito,
-Graduated,Dragonfly,Allen Sun,Alibaba Group,allencloud,https://github.com/dragonflyoss/dragonfly/blob/main/MAINTAINERS.md
-,,Zuozheng Hu,Alibaba Group,garfield009,
+Graduated,Dragonfly,Gaius Qi,Ant Group,gaius-qi,https://github.com/dragonflyoss/community/blob/master/roles/Maintainers.md
 ,,Yuan Yang,Alibaba Group,yyzai384,
 ,,Peng Tao,Ant Group,bergwolf,
 ,,Jim Ma,Ant Group,jim3ma,
-,,Gaius Qi,Ant Group,gaius-qi,
 ,,Chlins Zhang,Ant Group,chlins,
-,,Akash HR,Intel,akashhr,
 ,,Yiyang Huang,ByteDance,hyy0322,
 ,,Han Jiang,Kuaishou,CormickKneey,
 ,,yxxhero,Zhipu AI,yxxhero,
 ,,fcgxz2003,Dalian University of Technology,fcgxz2003,
-,,Cheng Ming,Apache,mingcheng,
+,,mingcheng 吕峰军（明城）,Apache Foundation,mingcheng,
 Sandbox,Virtual Kubelet,Ria Bhatia ,Niantic,rbitia,https://github.com/virtual-kubelet/community/blob/master/OWNERS.md
 ,,Brian Goff,Microsoft,cpuguy83,
 ,,Paulo Pires,,pires,
@@ -1088,7 +1085,7 @@ Sandbox,ChaosBlade,Changjun_Xiao,Alibaba,xcaspar,https://github.com/chaosblade-i
 ,,Camix,Alibaba,MandssS,
 ,,Fei_Ye,Individual,tiny-x,
 ,,Xudong_Guo,JiHu(GitLab),sunny0826,
-Sandbox,Fluid,Rong Gu,Nanjing University,RongGu,https://github.com/fluid-cloudnative/fluid/blob/master/MAINTAINERS.md
+Incubating,Fluid,Rong Gu,Nanjing University,RongGu,https://github.com/fluid-cloudnative/fluid/blob/master/MAINTAINERS.md
 ,,Yang Che,Alibaba,cheyang,
 ,,Bin Fan,Alluxio,apc999,
 ,,Zhihao Xu,Nanjing University,TrafalgarZZZ,
@@ -1651,6 +1648,7 @@ Sandbox,kcp,Andy Anderson,IBM,clubanderson,https://github.com/kcp-dev/kcp/blob/m
 ,,Nelo-T. Wallus,SAP,ntnn,
 ,,Marko Mudrinic,Kubermatic,xmudrii,
 Incubating,Kubeflow,Amber Graner,Independent,akgraner,https://github.com/kubeflow/community/blob/master/MAINTAINERS.md
+,,Alexander Perlman,Capital One,droctothorpe,
 ,,Andrey Velichkevich,Apple,andreyvelich,
 ,,Andy Stoneberg,Red Hat,andyatmiami,
 ,,Animesh Singh,LinkedIn,animeshsingh,
@@ -1666,9 +1664,12 @@ Incubating,Kubeflow,Amber Graner,Independent,akgraner,https://github.com/kubeflo
 ,,Jiaxin Shan,Bytedance,Jeffwan,
 ,,Johnu George,Nutanix,johnugeorge,
 ,,Josh Bottum,Independent,jbottum,
+,,Humair Khan,Red Hat,humairak,
 ,,Kimonas Sotirchos,Canonical,kimwnasptd,
 ,,Mathew Wicks,Aranui Solutions,thesuperzapper,
 ,,Matteo Mortari,Red Hat,tarilabs,
+,,Matt Prahl,Red Hat,mprahl,
+,,Michael Zazula,Capital One,zazulam,
 ,,Prashant Sharma,IBM,scrapcodes,
 ,,Ricardo Martinelli de Oliveira,Red Hat,rimolive,
 ,,Rong Ou,NVIDIA,rongou,
