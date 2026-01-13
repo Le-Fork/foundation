@@ -171,7 +171,7 @@ Graduated,Envoy,Matt Klein,bitdrift,mattklein123,https://github.com/envoyproxy/e
 ,,Takeshi Yoneda,Tetrate,mathetake,
 ,,Boteng Yao,Google,botengyao,
 ,Envoy: Gateway (non-voting),Xunzhuo Liu,Tencent,Xunzhuo,https://github.com/envoyproxy/gateway/blob/main/GOVERNANCE.md#steering-committee
-,,Arko Dasgupta,Tetrate,arkodg,
+,,Arko Dasgupta,OpenAI,arkodg,
 ,,Jianpeng He,Tetrate,zirain,
 ,,Huabing Zhao,Tetrate,zhaohuabing,
 ,,Xiaohan Hu,Huawei,shawnh2,
@@ -205,7 +205,7 @@ Graduated,containerd,Michael Crosby,Apple,crosbymichael,https://github.com/conta
 ,,Phil Estes,Amazon,estesp,
 ,,Akihiro Suda,NTT,AkihiroSuda,
 ,,Mike Brown,IBM,mikebrow,
-,,Maksym Pavlenko,Apple,mxpv,
+,,Maksym Pavlenko,NVIDIA,mxpv,
 ,,Wei Fu,Microsoft,fuweid,
 ,,Davanum Srinivas,Nvidia,dims,
 ,,Kevin Parsons,Microsoft,kevpar,
@@ -359,7 +359,6 @@ Graduated,Linkerd,Oliver Gould,Buoyant,olix0r,https://github.com/linkerd/linkerd
 Graduated,Helm,Matt Butcher,Fermyon,technosophos,https://github.com/helm/community/blob/master/MAINTAINERS.md
 ,,Matt Farina,SUSE,mattfarina,
 ,,Reinhard Nägele,IBM,unguiculus,
-,,Josh Dolitsky,Chainguard,jdolitsky,
 ,,Scott Rigby,Replicated,scottrigby,
 ,,Karen Chu,Apple,karenhchu,
 Graduated,Rook,Satoru Takeuchi,Cybozu,satoru-takeuchi,https://github.com/rook/rook/blob/master/OWNERS.md
@@ -2142,4 +2141,5 @@ Sandbox,HolmesGPT,Natan Yellin,Robusta,aantn,https://github.com/HolmesGPT/holmes
 ,,Roi Glinik,Robusta,RoiGlinik,
 ,,Moshe Morad,Robusta,moshemorad,
 ,,Qingchuan Hao,Microsoft,mainred,
+
 
