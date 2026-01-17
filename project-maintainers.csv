@@ -442,6 +442,7 @@ Graduated,Falco,Andrea Terzolo,Sysdig,andreagit97,https://github.com/falcosecuri
 ,,Samuel Gaist,Idiap Research Institute,sgaist,
 ,,Angelo Puglisi,Sysdig,deepskyblue86,
 ,,Gerald Combs,Wireshark Foundation,geraldcombs,
+,,Iacopo Rozzo,Sysdig,irozzo-1A,
 Graduated,SPIFFE,Arndt Schwenkschuster,Defakto,arndt-s,https://github.com/spiffe/spiffe/blob/main/CODEOWNERS
 ,,Justin Burke,Google,justinburke,
 ,,Spike Curtis,Coder,spikecurtis,
@@ -1010,6 +1011,7 @@ Sandbox,k8gb,Donovan Muller,Absa,donovanmuller,https://github.com/k8gb-io/k8gb/b
 ,,MichalK,Absa,kuritka,
 ,,Yury Tsarev,Upbound,ytsarev,
 ,,Andre Baptista Aguas,Open Systems,abaguas,
+,,Bradley Andersen,0ttl,elohmrow,
 Sandbox,Trickster ,James Ranson,Virga,jranson,https://github.com/trickstercache/trickster/blob/main/MAINTAINERS.md
 ,,Chris Randles,WB Discovery,crandles,
 ,,Adam Ross,Amazon,LimitlessEarth,
@@ -1389,10 +1391,12 @@ Incubating, OpenFGA, Adrian Tam, Okta, adriantam, https://github.com/openfga/com
 ,,Patrick Dillon, Okta, pdillon,
 ,,Siddhant Khare, Individual, Siddhant-K-code,
 ,,Maurice Ackel, Netlight, mauriceackel,
-Incubating, Lima, Akihiro Suda, NTT, AkihiroSuda, https://github.com/lima-vm/lima/blob/master/MAINTAINERS.md
+Incubating, Lima, Akihiro Suda, NTT, AkihiroSuda, https://github.com/lima-vm/lima/blob/master/website/content/en/docs/community/governance.md
+
 ,,Jan Dubois, SUSE, jandubois,
 ,,Anders F Björklund, Individual, afbjorklund,
 ,,Balaji Vijayakumar, Thoughtworks, balajiv113,
+,,Norio Nomura, Individual, norio-nomura,
 Sandbox, ContainerSSH, Nikos Tsipinakis, CERN, tsipinakis, https://github.com/orgs/ContainerSSH/people
 Sandbox,kubewarden,Flavio Castelli,SUSE,flavio,https://github.com/orgs/kubewarden/teams/maintainers/members
 ,,José Guilherme Vanz,SUSE,jvanz,
@@ -1400,6 +1404,7 @@ Sandbox,kubewarden,Flavio Castelli,SUSE,flavio,https://github.com/orgs/kubewarde
 ,,Raul Cabello Martin r,SUSE,raulcabello,
 ,,Rafael Fernández López ,VMware,ereslibre,
 ,,Olivier Vernin,SUSE,olblak,
+,,Alessio Greggi,SUSE,alegrey91,
 Graduated,Istio: Steering Committee,Ameer Abbas,Google,ameer00,https://github.com/istio/community/tree/master/steering#members
 ,,Craig Box,Solo.io,craigbox,
 ,,Rob Cernich,Red Hat,rcernich,
@@ -1516,11 +1521,11 @@ Sandbox,HwameiStor,Liang Sun,DaoCloud,sun7927,https://github.com/hwameistor/hwam
 ,,Baofa Fan,DaoCloud,carlory,
 ,,Peng Lai,DaoCloud,peng9808,
 ,,Peter Pan,DaoCloud,panpan0000,
-Incubating,Kubescape,Bezalel Brandwine,ARMO,Bezbran,https://github.com/kubescape/kubescape/blob/master/MAINTAINERS.md#maintainers
-,,Craig Box,ARMO,craigbox,
-,,David Wertenteil,ARMO,dwertent,
-,,Rotem Refael,ARMO,rotemamsa,
+Incubating,Kubescape,Bertschy Matthias,ARMO,matthyx,https://github.com/kubescape/project-governance/blob/main/MAINTAINERS.md
 ,,Ben Hirschberg,ARMO,slashben,
+,,Rotem Refael,ARMO,rotemamsa,
+,,Amir Malka,ARMO,amirmalka,
+,,Bezalel Brandwine,Softwine,Bezbran,
 Sandbox,Carina,Zhenhua Zhang,BoCloud,ZhangZhenhua,https://github.com/carina-io/carina/blob/main/MAINTAINERS.md
 ,,Shaosong Fu,Bocloud,antmoveh,
 Sandbox,Paralus,Avinash Varma Penmetsa,Rafay,avinashpenmetsa,https://github.com/paralus/paralus/blob/main/MAINTAINERS.md
@@ -2147,5 +2152,6 @@ Sandbox,HolmesGPT,Natan Yellin,Robusta,aantn,https://github.com/HolmesGPT/holmes
 ,,Roi Glinik,Robusta,RoiGlinik,
 ,,Moshe Morad,Robusta,moshemorad,
 ,,Qingchuan Hao,Microsoft,mainred,
+
 
 
