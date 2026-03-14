@@ -493,6 +493,11 @@ Graduated,Dragonfly,Gaius Qi,Ant Group,gaius-qi,https://github.com/dragonflyoss/
 ,,yxxhero,Zhipu AI,yxxhero,
 ,,fcgxz2003,Dalian University of Technology,fcgxz2003,
 ,,mingcheng 吕峰军（明城）,Apache Foundation,mingcheng,
+,,Song Yan,Ant Group,imeoer,
+,,Jiang Liu,Alibaba Group,jiangliu,
+,,Kaiyong Yang,Ant Group,BraveY,
+,,PengCheng Liu,Ant Group,NehemiahMi,
+,,Baptiste Girard-Carrabin,DataDog,Fricounet,
 Sandbox,Virtual Kubelet,Ria Bhatia ,Niantic,rbitia,https://github.com/virtual-kubelet/community/blob/master/OWNERS.md
 ,,Brian Goff,Microsoft,cpuguy83,
 ,,Paulo Pires,,pires,
@@ -975,6 +980,7 @@ Graduated,cert-manager,James Munnelly,Apple,munnerz,https://github.com/cert-mana
 ,,Tim Ramlot,Venafi,inteon,
 ,,Adam Talbot,Epic Games,ThatsMrTalbot,
 ,,Erik Godding Boye,Zenior,erikgb,
+,,Hemant Joshi,Walmart,hjoshi123,
 Incubating,OpenKruise,Fei Guo,Alibaba,Fei-Guo,https://github.com/openkruise/kruise/blob/master/MAINTAINERS.md
 ,,Siyu Wang,Alibaba,FillZpp,
 ,,Zhen Zhang,Alibaba,furykerry,
@@ -1177,13 +1183,7 @@ Incubating,wasmCloud,Brooks Townsend,Cosmonic,brooksmtownsend,https://github.com
 ,,Bailey Hayes,Cosmonic,ricochet,
 ,,Jordan Rash,Synadia,jordan-rash,
 ,,Colin Murphy,Adobe,cdmurph32,
-Sandbox,Akri,Kate Goldenring,Fermyon,kate-goldenring,https://github.com/project-akri/akri/blob/main/CODEOWNERS
-,,Brian Fjeldstad,Microsoft,bfjelds,
-,,Roaa Sakr,Microsoft,romoh,
-,,Jiri Appl,Microsoft,jiria,
-,,Edrick Wong,Amazon,edrickwong,
-,,Adithya Jayachandran,Microsoft,adithyaj,
-,,Gaurav Gahlot,ionos-cloud,gauravgahlot,
+Sandbox,Akri,Gaurav Gahlot,ionos-cloud,gauravgahlot,https://github.com/project-akri/akri/blob/main/CODEOWNERS
 ,,Lior Lustgarten,Microsoft,lilustga,
 ,,Marcel Bindseil,Microsoft,bindsi,
 ,,Yu Jin Kim,Microsoft,yujinkim-msft,
