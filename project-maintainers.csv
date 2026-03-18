@@ -987,7 +987,7 @@ Incubating,OpenKruise,Fei Guo,Alibaba,Fei-Guo,https://github.com/openkruise/krui
 ,,Robert Everson,Lyft,reverson,
 ,,Henry Wang,Tencent,henrywangx,
 Sandbox,Tinkerbell,Jacob Weinstock,Amazon Web Services,jacobweinstock,https://github.com/tinkerbell/org/blob/main/ADMINS.md
-Incubating,Kyverno,Jim Bugwadia,Nirmata,JimBugwadia,https://github.com/kyverno/community/blob/main/MAINTAINERS.md
+Graduated,Kyverno,Jim Bugwadia,Nirmata,JimBugwadia,https://github.com/kyverno/community/blob/main/MAINTAINERS.md
 ,,Shuting Zhao,Nirmata,realshuting,
 ,,Frank Jogeleit,Nirmata,fjogeleit,
 ,,Charles-Edouard Brétéché,Nirmata,eddycharly,
@@ -1274,25 +1274,21 @@ Sandbox,Devfile,Andreas Resios,AWS,resios, https://github.com/devfile/api/blob/m
 ,,Mario Loriedo,Red Hat,l0rd,
 ,,Stevan Le Meur,Red Hat,slemeur,
 ,,Tomas Kral,Red Hat,kadel,
-Graduated,Knative,Ali Ok,Red Hat,aliok, https://github.com/knative/community/blob/main/OWNERS_ALIASES
-,,Naina Singh,Red Hat,nainaz,
-,,Mauricio Salatino,Diagrid,salaboy,
-,,Dave Protasowski,"Dave's Consulting",dprotaso,
-,,Evan Anderson,Stacklok Inc,evankanderson,
-,,David Simansky,Red Hat,dsimansk,
-,,Paul Schweigert,IBM,psschwei,
-,,Krsna Mahapatra,Broadcom,krsna-m,
+Graduated,Knative,Ali Ok,Red Hat,aliok,https://github.com/knative/community/blob/main/MAINTAINERS.md
+,,Calum Murray,Red Hat,Cali0707,
+,,Chris Suszynski,Red Hat,cardil,
+,,Christoph Staebler,Red Hat,creydr,
+,,Dave Protasowski,Independent,dprotaso,
 ,,David Hadas,IBM,davidhadas,
+,,David Simansky,Red Hat,dsimansk,
+,,Evan Anderson,Custcodian,evankanderson,
+,,David Fridrich,Red Hat,gauron99,
 ,,Vincent Hou,Bloomberg,houshengbo,
 ,,Luke Kingland,Red Hat,lkingland,
-,,Roland Huss,Red Hat,rhuss,
+,,Matej Vašek,Red Hat,matejvasek,
+,,Matthias Wessendorf,Red Hat,matzew,
+,,Mahamed Ali,Independent,upodroid,
 ,,Pierangelo Di Pilato,Red Hat,pierDipi,
-,,Mahamed Ali,Cisco,upodroid,
-,,Calum Murray,Red Hat,cali0707,
-,,Leo Li,Red Hat,leo6leo,
-,,Mariana Mejia,OCAD University,mmejia02,
-,,Zainab Husain,OCAD University,zainabhusain227,
-,,Norris Sam Osarenkhoe,SVA,nrrso,
 Sandbox,OpenFunction,Benjamin Huo,QingCloud,benjaminhuo,https://github.com/OpenFunction/OpenFunction/blob/main/OWNERS
 ,,Feynman Zhou,QingCloud,FeynmanZhou,
 ,,Wanjun Lei,QingCloud,wanjunlei,
@@ -1678,6 +1674,7 @@ Sandbox,kcp,Andy Anderson,IBM,clubanderson,https://github.com/kcp-dev/kcp/blob/m
 ,,Nelo-T. Wallus,SAP,ntnn,
 ,,Marko Mudrinic,Kubermatic,xmudrii,
 Incubating,Kubeflow,Amber Graner,Independent,akgraner,https://github.com/kubeflow/community/blob/master/MAINTAINERS.md
+,,Alessio Pragliola,Red Hat,Al-Pragliola,
 ,,Alexander Perlman,Capital One,droctothorpe,
 ,,Andrey Velichkevich,Apple,andreyvelich,
 ,,Andy Stoneberg,Red Hat,andyatmiami,
@@ -1865,6 +1862,7 @@ Incubating,Flatcar Container Linux,Thilo Fromm,Microsoft,t-lo,https://github.com
 Sandbox,Shipwright,Enrique Encalada,IBM,qu1queee,https://github.com/shipwright-io/community/blob/main/MAINTAINERS.md
 ,,Sascha Schwarze,IBM,SaschaSchwarze0,
 ,,Adam Kaplan,Red Hat,adambkaplan,
+,,Hasan Awad,Red Hat,hasanawad94,
 Sandbox,KusionStack,Zibo He,Ant Group,adohe,https://github.com/KusionStack/community/blob/main/MAINTAINERS.md
 ,,Dayuan Li,Ant Group,SparkYuan,
 ,,Yingming Yang,Ant Group,elliotxx,
