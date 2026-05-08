@@ -1314,9 +1314,12 @@ Sandbox,KubeArmor,Rahul Jadhav,AccuKnox,nyrahul,https://github.com/kubearmor/Kub
 Sandbox,kube-rs,Eirik Albrigtsen,TrueLayer,clux,https://github.com/kube-rs/website/blob/main/docs/maintainers.md
 ,,Teo Klestrup Röijezon,Stackable,teozkr,
 ,,Kaz Yoshihara,Qualified,kazk,
-Sandbox,VS Code Kubernetes Tools,Ivan Towlson,Fermyon,itowlson,https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools/blob/master/OWNERS.md
-,,Luca Stocchi,Red Hat,lstocchi,
-,,Bhargav Nookala,Microsoft,bnookala,
+Sandbox,VS Code Kubernetes Tools,Tatsat (Tats) Mishra,Microsoft,Tatsinnit,https://github.com/vscode-kubernetes-tools/vscode-kubernetes-tools/blob/master/OWNERS.md
+,,Tejhan Diallo,Microsoft,tejhan,
+,,Suneha Bose,Microsoft,bosesuneha,
+,,David Gamero,Microsoft,davidgamero,
+,,Tom Gamble,Microsoft,gambtho,
+,,Ralph Squillace,Microsoft,squillace,
 Sandbox,Devfile,Andreas Resios,AWS,resios, https://github.com/devfile/api/blob/master/MAINTAINERS.md
 ,,Angel Misevski,Red Hat,amisevsk,
 ,,Elson Yuen,Red Hat,elsony,
@@ -1630,12 +1633,13 @@ Sandbox,Clusternet,Di Xu,Tencent,dixudx,https://github.com/clusternet/clusternet
 ,,Yiwei Chen,Independent,yiwei-C,
 Incubating,Keycloak,Stian Thorgersen,IBM,stianst,https://github.com/keycloak/keycloak/blob/main/MAINTAINERS.md
 ,,Alexander Schwartz,IBM,ahus1,
-,,Marek Posolda,Red Hat,mposolda,
-,,Pedro Igor,Red Hat,pedroigor,
+,,Marek Posolda,IBM,mposolda,
+,,Pedro Igor,IBM,pedroigor,
+,,Ricardo Martin,IBM,rmartinc,
 ,,Sebastian Schuster,Bosch,sschu,
-,,Stan Silvert,Red Hat,ssilvert,
+,,Stan Silvert,IBM,ssilvert,
 ,,Takashi Norimatsu,Hitachi,tnorimat,
-,keycloak,Thomas Darimont,Identity Tailor GmbH,thomasdarimont,https://github.com/keycloak/keycloak/blob/main/MAINTAINERS.md
+,,Thomas Darimont,Identity Tailor GmbH,thomasdarimont,https://github.com/keycloak/keycloak/blob/main/MAINTAINERS.md
 ,,Václav Muzikář,IBM,vmuzikar,
 ,,Steven Hawkins,IBM,shawkins,
 Sandbox,Kepler,Vimal Kumar,Red Hat,vimalk78,https://github.com/sustainable-computing-io/kepler/blob/main/MAINTAINERS.md
