@@ -589,6 +589,7 @@ Incubating,KubeVirt,Vladik Romanovsky,Red Hat,vladikr,https://github.com/kubevir
 ,,Ryan Hallisey,Nvidia,rthallisey,
 ,,Andrew Burden,Red Hat,aburdenthehand,
 ,,Ľuboslav Pivarč,Red Hat,xpivarc,
+,,Itamar Holder,Red Hat,iholder101,
 Incubating,Longhorn,Sheng Yang,SUSE,yasker,https://github.com/longhorn/longhorn/blob/master/MAINTAINERS
 ,,Shuo Wu,SUSE,shuo-wu,
 ,,David Ko,SUSE,innobead,
@@ -1743,6 +1744,8 @@ Sandbox,kcp,Andy Anderson,IBM,clubanderson,https://github.com/kcp-dev/kcp/blob/m
 ,,Marvin Beckers,Kubermatic,embik,
 ,,Nelo-T. Wallus,SAP,ntnn,
 ,,Marko Mudrinic,Kubermatic,xmudrii,
+,,Robert Vasek,Cern,gman0,
+,,Simon Bein,Kubermatic,SimonTheLeg,
 Incubating,Kubeflow,Amber Graner,Independent,akgraner,https://github.com/kubeflow/community/blob/master/MAINTAINERS.md
 ,,Alessio Pragliola,Red Hat,Al-Pragliola,
 ,,Alexander Perlman,Capital One,droctothorpe,
