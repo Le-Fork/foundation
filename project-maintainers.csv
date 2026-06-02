@@ -1727,8 +1727,10 @@ Sandbox,Copa,Sertac Ozercan,Microsoft,sozercan,https://github.com/project-copace
 Sandbox,Capsule,Adriano Pezzuto,Clastix,bsctl,https://github.com/projectcapsule/capsule/blob/main/.github/maintainers.yaml
 ,,Dario Tranchitella,Clastix,prometherion,
 ,,Maksim Fedotov,wargaming.net,MaxFedotov,
+,,Massimiliano Giovagnoli,Proximus,maxgio92,
 ,,Oliver Bähler,Peak Scale,oliverbaehler,
-,,Hristo Hristov,Vaerolabs,Svarrogh1337,
+,,Hristo Hristov,Independent,Svarrogh1337,
+,,Sander Tervoert,ODC-Noord,sandert-k8s,
 Sandbox,kcl,Pengfei Xu,Ant Group,Peefy,https://github.com/kcl-lang/kcl/blob/main/MAINTAINERS
 ,,Xiaodong Duo,Ant Group,ldxdl,
 ,,Chaoqun Huang,TuSimple,ekkoful,
@@ -2166,13 +2168,6 @@ Sandbox,Hyperlight,Dan Chiarlone,Microsoft,danbugs,https://github.com/hyperlight
 Sandbox,urunc,Charalampos Mainas,Nubificus,cmainas,https://urunc.io/developer-guide/maintainers/
 ,,Georgios Ntoutsos,Nubificus,gntouts,
 ,,Anastassios Nanos,Nubificus,ananos,
-Sandbox,kagent,Art Berger,Solo.io,artberger,https://github.com/kagent-dev/community/blob/main/MAINTAINERS.md
-,,Eitan Yarmush,Solo.io,EItanya,
-,,Lin Sun,Solo.io,linsun,
-,,Nadine Spies,Solo.io,Nadine2016,
-,,Peter Jausovec,Solo.io,peterj,
-,,Scott Weiss,Solo.io,ilackarms,
-,,Yuval Kohavi,Solo.io,yuval-k,
 Sandbox,xregistry,Doug Davis,,duglin,https://github.com/xregistry/spec/blob/main/OWNERS
 ,,Klaus Deissner,SAP,deissnerk,
 Sandbox,composefs,Alexander Larsson,Red Hat,alexl,https://github.com/composefs/composefs/blob/main/MAINTAINERS.md
