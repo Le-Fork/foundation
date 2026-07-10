@@ -388,6 +388,7 @@ Graduated,Harbor,Daniel Jiang,VMware,reasonerjt,https://github.com/goharbor/comm
 ,,Jérémie MONSINJON,OVH Cloud,Jérémie MONSINJON,
 ,,Pierre PÉRONNET,DataDog,holyhope,
 ,,Vadim Bauer,8gears,Vad1mo,
+,,Prasanth Baskar,8gears,bupd,
 ,Harbor: SIG Community,Orlin Vasilev,SAP,OrlinVasilev,
 ,,Henry Zhang,GRG Banking,hainingzhang,
 Graduated,Open Policy Agent,Tim Hinrichs,Apple,timothyhinrichs,https://github.com/open-policy-agent/opa/blob/master/MAINTAINERS.md
@@ -1229,6 +1230,7 @@ Sandbox,ORAS (OCI Registry as Storage),Andrew Block,Red Hat,sabre1041,https://gi
 ,,Sajay Antony,Microsoft,sajayantony,
 ,,Shiwei Zhang,Microsoft,shizhMSFT,
 ,,Terry Howe,AWS,TerryHowe,
+,,Steve Lasker,InMage Systems,stevelasker,
 Incubating,wasmCloud,Bailey Hayes,Cosmonic,ricochet,https://github.com/wasmCloud/wasmCloud/blob/main/.github/CODEOWNERS
 ,,Brooks Townsend,Capital One,brooksmtownsend,
 ,,Colin Murphy,Adobe,cdmurph32,
@@ -1662,6 +1664,7 @@ Sandbox,Kepler,Vimal Kumar,Red Hat,vimalk78,https://github.com/sustainable-compu
 ,,Sunyanan Choochotkaew,IBM,sunya-ch,
 ,,Niki Manoledaki,Grafana Labs,nikimanoledaki,
 ,,Vasco Gervasi,,yellowhat,
+,,Laura Llinares,CERN,laurall974,
 Sandbox,SlimToolkit,Kyle Quest,,kcq,https://github.com/slimtoolkit/slim/blob/master/MAINTAINERS.md
 ,,Ivan Velichko,,iximiuz,
 Sandbox,SlimFaas,Guillaume Chervet,AXA France,guillaume-chervet,https://github.com/SlimPlanet/SlimFaas/blob/main/MAINTAINERS.md
@@ -2368,3 +2371,6 @@ Sandbox,llm-d,Abdullah Gharaibeh,Google,ahg-g,https://github.com/llm-d/llm-d/blo
 ,,Carlos Costa,IBM,chcost,
 ,,Clayton Coleman (inactive while on leave),Google,smarterclayton,
 ,,Robert Shaw,Red Hat,robertgshaw2-redhat,
+Sandbox,Apicurio,Eric Wittmann,Red Hat,ericwittmann,
+,,Jakub Senko,Individual - No Account,jsenko,
+,,Carles Arnal,Individual - No Account,carlesarnal,
