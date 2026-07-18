@@ -469,7 +469,7 @@ Incubating,Cortex,Alan Protasio,Amazon Web Services,alanprot,https://github.com/
 ,,Daniel Blando,Amazon Web Services,danielblando,
 ,,Friedrich Gonzalez,Apple,friedrichg,
 ,,Sungjin Lee,KakaoEnterprise,SungJin1212,
-Incubating,Buildpacks,Aidan Delaney,Bloomberg,aidandelaney,https://github.com/buildpacks/community/blob/main/OWNERS
+Graduated,Buildpacks,Aidan Delaney,Bloomberg,aidandelaney,https://github.com/buildpacks/community/blob/main/OWNERS
 ,,Daniel Mikusa,Independent,dmikusa-pivotal,
 ,,David Freilich,AppsFlyer,dfreilich,
 ,,Jesse Brown,Salesforce,jabrown85,
@@ -1939,7 +1939,6 @@ Incubating,Flatcar Container Linux,Thilo Fromm,Microsoft,t-lo,https://github.com
 ,,Lexi Nadolski,Microsoft,lexinadolski,
 Sandbox,Shipwright,Enrique Encalada,IBM,qu1queee,https://github.com/shipwright-io/community/blob/main/MAINTAINERS.md
 ,,Sascha Schwarze,IBM,SaschaSchwarze0,
-,,Adam Kaplan,Red Hat,adambkaplan,
 ,,Hasan Awad,Red Hat,hasanawad94,
 Sandbox,KusionStack,Zibo He,Ant Group,adohe,https://github.com/KusionStack/community/blob/main/MAINTAINERS.md
 ,,Dayuan Li,Ant Group,SparkYuan,
