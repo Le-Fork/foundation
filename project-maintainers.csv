@@ -88,6 +88,7 @@ Graduated,Kubernetes steering,Antonio Ojea,Google,aojea,https://git.k8s.io/steer
 ,,Saad Ali,Google,saad-ali,
 ,,Sebastian Florek,Plural,floreks,
 ,,Sergey Kanzhelev,Google,SergeyKanzhelev,
+,,Shiming Zhang,DaoCloud,wzshiming,
 ,,Shu Muto,NEC,shu-mutou,
 ,,Shyam Jeedigunta,Amazon,shyamjvs,
 ,,Siyuan Zhang,Google,siyuanfoundation,
@@ -206,6 +207,7 @@ Graduated,CoreDNS,Chris O'Haver,Infoblox,chrisohaver,https://github.com/coredns/
 ,,Sandeep Rajan,Infoblox,rajansandeep,
 ,,Michael Grosser,,stp-ip,
 ,,Ben Kochie,GitLab,superq,
+,,Zhenyu Chen,,houyuwushang,
 Graduated,containerd,Derek McGowan,Docker,dmcgowan,https://github.com/containerd/.project/blob/master/MAINTAINERS
 ,,Phil Estes,Amazon,estesp,
 ,,Akihiro Suda,NTT,AkihiroSuda,
@@ -443,24 +445,23 @@ Graduated,Falco,Andrea Terzolo,Sysdig,andreagit97,https://github.com/falcosecuri
 ,,Roberto Scolaro,Sysdig,therealbobo,
 ,,Alessandro Cannarella,Sysdig,c2ndev,
 Graduated,SPIFFE,Arndt Schwenkschuster,Defakto,arndt-s,https://github.com/spiffe/spiffe/blob/main/CODEOWNERS
-,,Justin Burke,Google,justinburke,
-,,Spike Curtis,Coder,spikecurtis,
+,,Sorin Dumitru,Bloomberg,sorindumitru,
+,,Noah Stride,Teleport,strideynet,
 ,,Andrew Harding,Anthropic,azdagron,
 ,SPIFFE Steering Committee,Arndt Schwenkschuster,Defakto,arndt-s,https://github.com/spiffe/spiffe/blob/main/ssc/README.md
 ,,Noah Stride,Teleport,strideynet,
 ,,Volkan Ozcelik,Broadcom,v0lkan,
 ,,Mariusz Sabath,IBM Research,mrsabath,
-,,Kevin Fox,Pacific Northwest National Laboratory,kfox1111,
+,,Sorin Dumitru,Bloomberg,sorindumitru,
 Graduated,SPIRE,Sorin Dumitru,Bloomberg,sorindumitru,https://github.com/spiffe/spire/blob/main/CODEOWNERS
 ,,Evan Gilman,SPIRL,evan2645,
 ,,Marcos Yacob,HPE,MarcosDY,
 ,,Agustin Martinez Fayo,HPE,amartinezfayo,
 ,,Ryan Turner,Cielara AI,rturner3,
 ,,Kevin Fox,PNNL,kfox1111,
-Sandbox,Telepresence,Jose Cortes,Datawire,josecv,https://github.com/telepresenceio/telepresence/blob/release/v2/MAINTAINERS.md
-,,Kévin Lambert,Datawire,knlambert,
-,,Nick Powell,Datawire,njayp,
-,,Thomas Hallgren,Datawire,thallgren,
+Sandbox,Telepresence,Thomas Hallgren,Polar Sky,thallgren,https://github.com/telepresenceio/telepresence/blob/release/v2/MAINTAINERS.md
+,,Blazej Gruszka,Displate,bgruszka,
+,,Nick Powell,,njayp,
 Incubating,Cortex,Alan Protasio,Amazon Web Services,alanprot,https://github.com/cortexproject/cortex/blob/master/MAINTAINERS.md
 ,,Ben Ye,Amazon Web Services,yeya24,
 ,,Charlie Le,Apple,CharlieTLe,
@@ -1760,6 +1761,7 @@ Graduated,Kubeflow,Amber Graner,Independent,akgraner,https://github.com/kubeflow
 ,,Ilias Katsakioris,HPE,elikatsis,
 ,,James Liu,Google,zijianjoy,
 ,,James Wu,Google,james-jwu,
+,,Jeff Spahr,,jeffspahr,
 ,,Jiaxin Shan,Bytedance,Jeffwan,
 ,,Johnu George,Nutanix,johnugeorge,
 ,,Jon Burdo,Red Hat,jonburdo,
