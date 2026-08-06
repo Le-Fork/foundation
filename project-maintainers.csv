@@ -76,7 +76,7 @@ Graduated,Kubernetes steering,Antonio Ojea,Google,aojea,https://git.k8s.io/steer
 ,,Mrunal Patel,Red Hat,mrunalp,
 ,,Nabarun Pal,Broadcom,palnabarun,
 ,,Natali Vlatko,Cisco,natalisucks,
-,,Nir Rozenbaum,Red Hat,nirrozenbaum,
+,,Nir Rozenbaum,NVIDIA,nirrozenbaum,
 ,,Omer Aplatony,Red Hat,omerap12,
 ,,Patrick Ohly,Intel,pohly,
 ,,Peter Hunt,Red Hat,haircommander,
@@ -479,7 +479,7 @@ Graduated,Buildpacks,Aidan Delaney,Bloomberg,aidandelaney,https://github.com/bui
 ,,Sambhav Kothari,Bloomberg,sambhav,
 ,,Terence Lee,Salesforce,hone,
 ,,Travis Longoria,Salesforce,elbandito,
-Graduated,Dragonfly,Gaius Qi,Ant Group,gaius-qi,https://github.com/dragonflyoss/community/blob/master/roles/Maintainers.md
+Graduated,Dragonfly,Gaius Qi,ByteDance,gaius-qi,https://github.com/dragonflyoss/community/blob/master/roles/Maintainers.md
 ,,Yuan Yang,Alibaba Group,yyzai384,
 ,,Peng Tao,Ant Group,bergwolf,
 ,,Chlins Zhang,Ant Group,chlins,
@@ -492,6 +492,7 @@ Graduated,Dragonfly,Gaius Qi,Ant Group,gaius-qi,https://github.com/dragonflyoss/
 ,,Kaiyong Yang,Ant Group,BraveY,
 ,,Baptiste Girard-Carrabin,DataDog,Fricounet,
 ,,Zuliang Wang,Aliyun,CooooolFrog,
+,,Changfu Zhang,University of Science and Technology Beijing,Zephyrcf,
 Sandbox,Virtual Kubelet,Ria Bhatia ,Niantic,rbitia,https://github.com/virtual-kubelet/community/blob/master/OWNERS.md
 ,,Brian Goff,Microsoft,cpuguy83,
 ,,Paulo Pires,,pires,
@@ -1985,12 +1986,18 @@ Sandbox,Sermant,Lai Li,Huawei,lilai23,https://github.com/sermant-io/Sermant/blob
 ,,Wenming Zhang,iFLYTEK,zwmagic,
 Sandbox,Perses,Akshay Iyyadurai Balasundaram,SAP,ibakshay,https://github.com/perses/perses/blob/main/GOVERNANCE.md
 ,,Antoine Thebaud,Amadeus,AntoineThebaud,
+,,Andreas Gerstmayr,Red Hat,andreasgerstmayr,
 ,,Augustin Husson,Amadeus,Nexucis,
 ,,Celian Garcia,Amadeus,celian-garcia,
 ,,Gabriel Bernal,Red Hat,jgbernalp,
 ,,Guillaume Ladorme,Amadeus,gladorme,
-,,Nicolas Takashi,Coralogix,nicolastakashi,
+,,Jeremy Rickards,SAP,rickardsjp,
+,,Nicolas Takashi,Dash0,nicolastakashi,
 ,,Steven Cobb,Chronosphere,sjcobb,
+,,Seyed Mahmoud SHAHROKNI,Amadeus,shahrokni,
+,,Jenny Zhu,Red Hat,zhuje,
+,,Jayapriya Pai,Red Hat,slashpai,
+,,Douglass Kirkley,"Enlighten, an HII Company",dougkirkley,
 Sandbox,Drasi,Allen Jones,Microsoft,agentofreality,https://github.com/drasi-project/community/blob/main/MAINTAINERS.md
 ,,Aman Singh,Microsoft,amansinghoriginal,
 ,,Daniel Gerlag,Microsoft,danielgerlag,
