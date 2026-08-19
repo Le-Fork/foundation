@@ -493,6 +493,7 @@ Sandbox,Virtual Kubelet,Ria Bhatia ,Niantic,rbitia,https://github.com/virtual-ku
 ,,Ben Corrie,VMware,corrieb,
 ,,Sargun Dhillon ,Netflix,sargun,
 Graduated,KubeEdge,Ce Zheng,DaoCloud,zc2638,https://github.com/kubeedge/kubeedge/blob/master/MAINTAINERS.md
+,,Chuanhao Jin,Bluedot,DoisLONG,
 ,,Dave Chen,ARM,chendave,
 ,,Fei Xu,Huawei,fisherxu,
 ,,Jiawei Liu,DaoCloud,JiaweiGithub,
@@ -1410,8 +1411,8 @@ Incubating,OpenCost,Ajay Tripathy,IBM,AjayTripathy,https://github.com/kubecost/o
 Sandbox,External Secrets Operator,Moritz Johner,Form3,moolen,https://github.com/external-secrets/external-secrets/blob/main/.github/PAUL.yaml
 ,,Lucas Severo Alves,Red Hat,knelasevero,
 ,,Gustavo Fernandes de Carvalho,Container Solutions,gusfcarvalho,
-,,Sebastian Gomez,Ubisoft,sebagomez,
-,,Shuhei Kitagawa,Mercari,shuheiktgw,
+,,Alexander Chernov,Independent,alekc,
+,,Jean-Philippe Evrard,TLaaS,evrardjp,
 ,,Gergely Brautigam,Kubermatic,skarlso,
 ,,Idan Adar,IBM,IdanAdar,
 Sandbox,ko,Jason Hall,Chainguard,imjasonh,https://github.com/ko-build/ko/blob/main/MAINTAINERS.md
@@ -2034,8 +2035,13 @@ Sandbox,Ratify,Akash Singhal,Microsoft,akashsinghal,https://github.com/ratify-pr
 Sandbox,Tokenetes,Atul Tulshibagwale,SGNL,tulshi,https://github.com/tokenetes/.github/blob/main/MAINTAINERS.md
 ,,Chiranjeewee Koirala,SGNL,kchiranjewee63,
 Sandbox,Cozystack,Andrei Kvapil,AENIX,kvaps,https://github.com/cozystack/cozystack/blob/main/MAINTAINERS.md
-,,George Gaal,AENIX,gecube,
-,,Kingdon Barrett,Navteca,kingdonb,
+,,Aleksei Sviridkin,AENIX,lexfrei,
+,,Daniil Miasnikov,AENIX,myasnikovdaniil,
+,,Ivan Okhotnikov,AENIX,IvanHunters,
+,,Kingdon Barrett,Urmanac,kingdonb,
+,,Mattia Eleuteri,Hidora,mattia-eleuteri,
+,,Matthieu Robin,Hidora,matthieu-robin,
+,,Timofei Larkin,AENIX,lllamnyp,
 ,,Timur Tukaev,AENIX,tym83,
 Sandbox,Spin,Brian Hardock,Fermyon,fibonacci1729,https://github.com/spinframework/spin/blob/main/MAINTAINERS.md
 ,,Ivan Towlson,Fermyon,itowlson,
@@ -2103,9 +2109,9 @@ Sandbox,kgateway,Art Berger,Solo.io,artberger,https://github.com/kgateway-dev/co
 ,,Will Rigby-Hall,Solo.io,williamgrh,
 ,,Yossi Mesika,Solo.io,ymesika,
 ,,Yuval Kohavi,Solo.io,yuval-k,
-Sandbox,KubeFleet,Ryan Zhang,Microsoft,ryanzhang-oss,https://github.com/kubefleet-dev/kubefleet/blob/main/MAINTAINERS.md
+Sandbox,KubeFleet,Chen Yu,Microsoft,michaelawyu,https://github.com/kubefleet-dev/kubefleet/blob/main/MAINTAINERS.md
+,,Britania Rodriguez Reyes,Microsoft,britaniar,
 ,,Zhiying Lin,Microsoft,zhiying-lin,
-,,Chen Yu,Microsoft,michaelawyu,
 ,,Simon Waight,Microsoft,sjwaight,
 ,,Yetkin Timocin,Microsoft,ytimocin,
 ,,Wei Weng,Microsoft,weng271190436,
