@@ -364,13 +364,12 @@ Graduated,Helm,Matt Butcher,Fermyon,technosophos,https://github.com/helm/communi
 ,,Karen Chu,Apple,karenhchu,
 Graduated,Rook,Satoru Takeuchi,Cybozu,satoru-takeuchi,https://github.com/rook/rook/blob/master/OWNERS.md
 ,,Jared Watts,Upbound,jbw976,
-,,Sebastien Han,Red Hat,leseb,
 ,,Blaine Gardner,Red Hat,BlaineEXE,
-,,Travis Nielsen ,Red Hat,travisn,
-,,Alexander Trost,Koor Technologies,galexrt,
+,,Travis Nielsen,Red Hat,travisn,
 ,,Subham Rai,Red Hat,subhamkrai,
 ,,Santosh Pillai,Red Hat,sp98,
 ,,Parth Arora,IBM,parth-gr,
+,,Josh Hoblitt,Index Exchange,jhoblitt,
 Graduated,Harbor,Daniel Jiang,VMware,reasonerjt,https://github.com/goharbor/community/blob/master/MAINTAINERS.md
 ,,Fanjian Kong,Tencent,kofj,
 ,,Mingming Pei,Netease,mmpei,
@@ -390,7 +389,6 @@ Graduated,Open Policy Agent,Tim Hinrichs,Apple,timothyhinrichs,https://github.co
 ,,Ash Narkar,Apple,ashutosh-narkar,
 ,,Charlie Egan,Apple,charlieegan3,
 ,,Max Smythe,Google,maxsmythe,
-,,Nilekh Chaudhari,Microsoft,nilekhc,
 ,,Rita Zhang,Microsoft,ritazh,
 ,,Sertaç Özercan,Microsoft,sozercan,
 ,,Jaydip Gabani,Microsoft,JaydipGabani,
@@ -1381,7 +1379,8 @@ Sandbox,Aeraki Mesh,Huabing Zhao,Tencent,zhaohuabing,https://github.com/aeraki-m
 ,,Sad-polar-bear,BOSS Zhipin,Sad-polar-bear,
 ,,Xunzhuo,Tencent,Xunzhuo,
 Sandbox,Clusterpedia,Iceber Gu,DaoCloud,Iceber,https://github.com/clusterpedia-io/clusterpedia/blob/main/MAINTAINERS.md
-,,Calvin Chen,DaoCloud,calvin0327,
+,,Calvin Chen,Individual,calvin0327,
+,,Leo Shi,DaoCloud,scydas,
 ,,Yingjun Wu,China Mobile Cloud,wuyingjun-lucky,
 Incubating,OpenFeature,Alex Jones,AWS,AlexsJones,https://openfeature.dev/community/community-members
 ,,Alois Reitbauer,Dynatrace,aloisreitbauer,
