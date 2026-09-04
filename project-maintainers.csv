@@ -1234,7 +1234,7 @@ Sandbox,MetalLB,Federico Paolinelli,Red Hat,fedepaol,https://github.com/metallb/
 ,,Russell Bryant,Red Hat,russellb,
 Sandbox,Inclavare Containers,Jia Zhang,Alibaba,jiazhang0,https://github.com/alibaba/inclavare-containers/blob/master/MAINTAINERS.md
 ,,Liang Yang,Intel,YangLiang3,
-Incubating,Karmada,Kevin Wang,Huawei,kevin-wangzefeng,https://github.com/karmada-io/karmada/blob/master/MAINTAINERS.md
+Graduated,Karmada,Kevin Wang,Huawei,kevin-wangzefeng,https://github.com/karmada-io/karmada/blob/master/MAINTAINERS.md
 ,,Ding Wenjiang,ByteDance,warjiang,
 ,,Hanbo Li,ByteDance,mrlihanbo,
 ,,Hongcai Ren,Huawei,RainbowMango,
@@ -1429,13 +1429,16 @@ Sandbox,Kured,Jean-Philippe Evrard,TLaaS,evrardjp,https://github.com/kubereboot/
 ,,Jack Francis,Microsoft,jackfrancis,
 ,,Dharsan Baskar,Independent,dharsanb,
 Incubating, OpenFGA, Adrian Tam, Okta, adriantam, https://github.com/openfga/community/blob/main/MAINTAINERS.md
+,,Alberto Perdomo, Okta, albertoperdomo,
 ,,Andres Aguiar, Okta, aaguiarz,
 ,,Anurag Bandyopadhyay, Okta, SoulPancake,
 ,,Dan Cech, Grafana Labs, DanCech,
-,,Alberto Perdomo, Okta, albertoperdomo,
+,,David Patrick, Okta, davidpatrick,
 ,,Ewan Harris, Okta, ewanharris,
+,,Hemanth Reddy Yalla, Okta, hemanthreddy7,
 ,,Jakub Hertyk, Okta, curfew-marathon,
 ,,Jim Anderson, Okta, jimmyjames,
+,,Jordan Weiner, Okta, jnweiner-auth0,
 ,,Jose Padilla, Okta, jpadilla,
 ,,Joshua Jones, Okta, senojj,
 ,,Justin Cohen, Okta, justincoh,
@@ -2128,7 +2131,7 @@ Sandbox,youki,Toru Komatsu,Preferred Networks,utam0k,https://github.com/youki-de
 Sandbox,interLink,Diego Ciangottini,INFN,dciangot,https://github.com/interTwin-eu/interLink/blob/main/MAINTAINERS.md
 ,,Daniele Spiga,INFN,spigad,
 ,,Giulio Bianchini,INFN,bianco95,
-Sandbox,Podman Container Tools,Brent Baude,Red Hat,baude,https://github.com/containers/podman/blob/main/MAINTAINERS.md
+Sandbox,Podman Container Tools,Brent Baude,Red Hat,baude,https://github.com/podman-container-tools/community/blob/main/MAINTAINERS.md
 ,,Ygal Blum,Red Hat,ygalblum,
 ,,Mohan Boddu,Red Hat,mohanboddu,
 ,,Ashley Cui,Red Hat,ashley-cui,
@@ -2139,9 +2142,9 @@ Sandbox,Podman Container Tools,Brent Baude,Red Hat,baude,https://github.com/cont
 ,,Mario Loriedo,Red Hat,l0rd,
 ,,Lokesh Mandvekar,Red Hat,lsm5,
 ,,Giuseppe Scrivano,Red Hat,giuseppe,
-,,Neil Smith,Red Hat,actionmancan,
 ,,Tom Sweeney,Red Hat,TomSweeneyRedHat,
 ,,Miloslav Trmač,Red Hat,mtrmac,
+,,Danish Prakash,SUSE,danishprakash,
 Sandbox,OpenTofu,Christian Mesh,Spacelift.io,cam72cam,https://github.com/opentofu/opentofu/blob/main/MAINTAINERS
 ,,James Humphries,Spacelift.io,Yantrio,
 ,,Martin atkins,Spacelift.io,apparentlymart,
