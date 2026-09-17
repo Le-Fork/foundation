@@ -588,6 +588,8 @@ Incubating,Longhorn,Sheng Yang,SUSE,yasker,https://github.com/longhorn/longhorn/
 ,,Phan Le,ByteDance,PhanLe1010,
 ,,Chinya Huang,SUSE,c3y1huang,
 ,,Jinhong Kim,NAVER,hookak,
+,,Raphanus Lo,SUSE,COLDTURNIP,
+,,David Cheng,SUSE,davidcheng0922,
 Graduated,CubeFS,Haifeng Liu ,_,bladehliu,https://github.com/cubefs/cubefs/blob/master/MAINTAINERS.md
 ,,Xiaochun HE,OPPO,xiaochunhe,
 ,,Liang Chang,OPPO,leonrayang,
@@ -1278,6 +1280,7 @@ Sandbox,Open Cluster Management,Qiu Jian,Red Hat,qiujian16,https://github.com/op
 ,,Tamal Saha,AppsCode,tamalsaha,
 ,,Ben Perry,Saturn Cloud,bhperry,
 ,,Tyler Gillson,Spectro Cloud,TylerGillson,
+,,Kahiro Okina,"Craftsman Software, Inc.",kahirokunn,
 Graduated,Dapr,Yaron Schneider,Diagrid,yaron2,https://github.com/dapr/community/blob/master/MAINTAINERS.md
 ,,Mark Fussell,Diagrid,msfussell,
 ,,Long Dai,Intel,daixiang0,
@@ -1930,6 +1933,8 @@ Incubating,HAMi,Xiao Zhang,dynamia.ai,wawa0210,https://github.com/Project-HAMi/H
 ,,William-wang,Nvidia,william-wang,
 ,,Yin Yu,Independent,Nimbus318,
 ,,Shouren Yang,4Paradigm,Shouren,
+,,Jimmy Song,dynamia.ai,rootsongjc,
+,,Reza Jelveh,dynamia.ai,fishman,
 Incubating,Flatcar Container Linux,Thilo Fromm,Microsoft,t-lo,https://github.com/flatcar/Flatcar/blob/main/MAINTAINERS.md
 ,,Dongsu Park,Microsoft,dongsupark,
 ,,James Le Cuirot,Microsoft,chewi,
@@ -2382,10 +2387,12 @@ Sandbox,llm-d,Abdullah Gharaibeh,Google,ahg-g,https://github.com/llm-d/llm-d/blo
 ,,Carlos Costa,IBM,chcost,
 ,,Clayton Coleman (inactive while on leave),Google,smarterclayton,
 ,,Robert Shaw,Red Hat,robertgshaw2-redhat,
-Sandbox,Apicurio Registry,Eric Wittmann,Red Hat,ericwittmann,
-,,Jakub Senko,Individual - No Account,jsenko,
-,,Carles Arnal,Individual - No Account,carlesarnal,
-,,Paolo Antinori,Red Hat,paoloantinori,
+Sandbox,Apicurio Registry,Eric Wittmann,IBM,EricWittmann,https://github.com/Apicurio/apicurio-registry/blob/main/MAINTAINERS.md
+,,Jakub Senko,IBM,jsenko,
+,,Carles Arnal,IBM,carlesarnal,
+,,Paolo Antinori,IBM,paoloantinori,
+,,Nikisha Patil,IBM,nikishapatil26,
+,,Vandana Yadav,IBM,vandanayadav7,
 Sandbox,kbind,Stefan Schimanski,NVIDIA,sttts,https://github.com/kbind-dev/kbind/blob/main/OWNERS
 ,,Moath Qasim,Kubermatic,moadqassem,
 ,,Karol Szwaj,Kubermatic,cnvergence,
