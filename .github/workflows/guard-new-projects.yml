@@ -97,8 +97,10 @@ jobs:
             echo
             echo "**To list maintainers for a project that isn't here yet:**"
             echo
-            echo "1. Add a \`.project/maintainers.yaml\` file in your project's own repository."
-            echo "2. Once merged, the maintainers flow into [\`project-maintainers-.project.csv\`](project-maintainers-.project.csv), which is auto-generated daily."
+            echo "All new CNCF projects must use the \`.project\` process."
+            echo
+            echo "1. Update \`maintainers.yaml\` in your project's \`.project\` repository and open a pull request there. In a multi-project repository, update the file in the relevant project directory."
+            echo "2. After the change is merged, the generated [\`project-maintainers-.project.csv\`](https://github.com/cncf/foundation/blob/main/project-maintainers-.project.csv) is refreshed automatically."
             echo
             echo "If you are an existing maintainer updating a project **already listed** in \`$CSV_FILE\`, please reopen with only that change."
             echo
